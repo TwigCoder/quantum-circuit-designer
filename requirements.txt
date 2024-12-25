@@ -1,0 +1,5 @@
+pygame>=2.5.0
+dearpygui>=1.9.0
+numpy>=1.24.0
+qiskit>=0.44.0
+qiskit-aer>=0.12.0
