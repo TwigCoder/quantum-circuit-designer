@@ -2,7 +2,7 @@
 
 A visual quantum circuit design and simulation tool built with Python. This application allows users to create, visualize, and simulate quantum circuits.
 
-![home](home.png)
+![demo](home.png)
 
 ## Features
 
