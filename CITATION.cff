@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Quantum Circuit Designer"
+type: software
+authors:
+  - given-names: Pranav
+    family-names: Verma
+repository-code: "https://github.com/TwigCoder/quantum-circuit-designer"
+license: MIT
+abstract: >-
+  A visual quantum circuit designer built with Pygame and Dear PyGui.
+  Users draw wires, place gates and sensors, and simulate the resulting
+  circuit with Qiskit Aer.
+keywords:
+  - quantum computing
+  - quantum circuits
+  - qiskit
+  - visualization
